@@ -17,22 +17,22 @@ footer {
 * Blauw menu
 */
 .navbar-inverse {
-  background-color: #d9edf7;
-  border-color: #bce8f1;
-  color: #31708f
+  background-color: #fcf8e3;
+  border-color: #faebcc;
+  color: #8a6d3b;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  background-color: #bce8f1;
-  border-color: #d9edf7;
-  color: #31708f
+  background-color: #faebcc;
+  border-color: #fcf8e3;
+  color: #8a6d3b;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-  color: #31708f
+  color: #8a6d3b;
 }
 
 /*
