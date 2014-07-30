@@ -14,6 +14,28 @@ footer {
 }
 
 /*
+* Blauw menu
+*/
+.navbar-inverse {
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+  color: #3c763d;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  background-color: #d6e9c6;
+  border-color: #dff0d8;
+  color: #3c763d;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #3c763d;
+}
+
+/*
  * Off Canvas
  * --------------------------------------------------
  */
